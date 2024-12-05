@@ -1,9 +1,5 @@
 # 🚀 Imersão Dev Back-End Alura
 
-
-<img src="/img/Alura.png" alt="drawing" style="width: 55%; margin: 0 5px;"/>
-
-
 ## 🎯 Sobre a Imersão
 
 Esta Imersão criada pela Alura em Parceria com Google tem o foco de apresentar um projeto, do zero, para devs back-end, que desejam iniciar a construção do seu portfólio e desenvolver seus primeiros projetos focado no back-end.
