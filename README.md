@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre a Imersão
 
-Este bootcamp oferece uma oportunidade única de aprendizado e certificação em Inteligência Artificial com a Microsoft. Os participantes terão acesso ao conteúdo completo para preparação do exame AI-102, receberão um voucher para realizar a certificação e poderão participar do Innovation Challenge Hackathon da Microsoft, que oferece um prêmio de $10.000 para os vencedores.
+Esta imersão ofereceu uma oportunidade única de aprendizado para o desenvolvimento do primeiro projeto Back-End para o portfólio.
 
 ### ✨ Destaques do Programa:
 
