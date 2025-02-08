@@ -41,7 +41,7 @@ Esta imersão ofereceu uma oportunidade única de aprendizado para o desenvolvim
 - **VsCode**
 - **Gemini**
 
-### 📚 Aprensizado
+### 📚 Aprendizado
 
 Neste projeto, construí um servidor local completo utilizando Node.js e JavaScript. A aplicação permite aos usuários fazer upload de imagens, que são armazenadas em um banco de dados MongoDB. 
 O diferencial deste projeto está na integração com a IA Gemini do Google, que gera descrições detalhadas e personalizadas para cada imagem, enriquecendo o conteúdo da plataforma. Para facilitar o desenvolvimento e os testes, utilizei VS Code como editor e Postman para interagir com as APIs da aplicação. 
